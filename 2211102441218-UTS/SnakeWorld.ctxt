@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SnakeWorld
+comment1.params=
+comment1.target=SnakeWorld()
+comment2.params=
+comment2.target=void\ showScore()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ changeDirection()
+comment5.params=
+comment5.target=void\ dead()
+comment6.params=size
+comment6.target=void\ grow(int)
+numComments=7
